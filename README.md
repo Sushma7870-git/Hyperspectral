@@ -1,7 +1,6 @@
-# Project Title
+# Explainable Deep Learning for Water Detection: SHAP-Based Hyperspectral Band Reduction
 
-Explainable Deep Learning for Water Detection: SHAP-Based Hyperspectral Band
-Reduction
+
 
 ## Dataset
 
